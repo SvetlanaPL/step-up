@@ -1,5 +1,5 @@
 #comment - для добавления комментариев
-*.txt
+tempfile.txt
 *.zip
 log/*.log
 log/*.log.[0-9]
